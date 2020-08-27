@@ -28,4 +28,4 @@ Code and Graphic Editors
 Terminal    
 
     Winwdows Terminal 2.0   
-    Mintty - Cygwin Terminal Emulator   
+    Mintty - Cygwin Terminal Emulator       
