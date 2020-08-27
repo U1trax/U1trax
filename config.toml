@@ -1,3 +1,72 @@
-baseURL = "http://example.org/"
+Title = "ultrax-d"
+baseurl = "https://U1trax.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ultrax-d"
+theme = "hello-friend-ng"
+googleAnalytics = "UA-149264131-1"
+
+[params]
+  author = "ultrax-d"
+  homeSubtitle = "Just a dot."
+  avatarurl = "https://avatars1.githubusercontent.com/u/34187410?s=460&v=4"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  keywords = "homepage, blog programming"
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  copyright = "Copyrights Reserved. Maestro Creativescape"
+  [params.logo]
+    logoText     = "$ ultrax-d"
+    logoHomeLink = "/"
+[languages]
+    [languages.en]
+      subtitle  = ""
+      weight    = 1
+      copyright = 'Maestro Creativescape'
+[menu]
+  [[menu.main]]
+    name = "contact"
+    weight = 0
+    url = "/contact"
+  [[menu.main]]
+    name = "about"
+    weight = 1
+    url = "/about"
+  [[menu.main]]
+    name = "experience"
+    weight = 2
+    url = "/experience"
+  [[menu.main]]
+      name = "projects"
+      weight = 3
+      url = "/projects"
+
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/UltraxDrago"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:prathameshraut71@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/prathamesh-raut-35745a146/  "
+
+  [[params.social]]
+      name = "telegram"
+      url = "https://t.me/U1tra_x"
+
+  [[params.social]]
+      name = "reddit"
+      url = "https://www.reddit.com/user/UltraxDrago"
+  [[params.social]]
+      name = "discord"
+      url = "https://discord.com/users/Ultrax#2396"
